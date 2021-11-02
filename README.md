@@ -1,0 +1,5 @@
+- Hi, I’m TAC Software
+- TAC Is An Abbrevation Of TAC Is Absolutely Cool
+- I’m currently learning Python, HTML, CSS, and JS
+- I Currently code on phone so sorry if suck
+- Thats It.
